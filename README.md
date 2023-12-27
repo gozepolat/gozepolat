@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey! I'm [@gozepolat](https://gozepolat.github.io/about) (Aydin Goze Polat, PhD) 👋
 
-<!--
-**gozepolat/gozepolat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a researcher, engineer, and entrepreneur focusing on deep learning. 👨‍🔬 🤖
 
-Here are some ideas to get you started:
+I live in Toronto, Canada. 🇨🇦
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I previously built deep learning solutions in Turkey, Germany, and Canada while collaborating with different teams and organizations across the globe. 🌎
+
+After introducing a new [graph based analysis for DL architectures](https://iopscience.iop.org/article/10.1088/2632-2153/acc713), I created [**priors**](https://github.com/gozepolat/priors/tree/main/reusability) for comparing and ranking DL models in terms of estimated performance, i.e. __before any training is done__. 🚀
+
+Currently I spend most of my time on bootstrapping full stack solutions as a **technical founder**. More details to come 🔜!
+
+Feel free to connect via [Linkedin](https://linkedin.com/in/aydin-polat). ✨
